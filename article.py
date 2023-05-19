@@ -1,7 +1,7 @@
 import streamlit as st
 import re
 
-import tensorflow as tf
+import TensorFlow as tf
 
 from transformers import pipeline
 
